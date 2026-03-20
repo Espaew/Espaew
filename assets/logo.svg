@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160">
+  <rect width="720" height="160" fill="#0d0d0d"/>
+  <text font-family="monospace" font-size="13" fill="#dc2626" xml:space="preserve">
+    <tspan x="20" dy="1.2em">  /$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$   /$$$$$$  /$$  /$$  /$$</tspan>
+    <tspan x="20" dy="1.2em"> /$$__  $$ /$$_____/ /$$__  $$ |____  $$ /$$__  $$| $$ | $$ | $$</tspan>
+    <tspan x="20" dy="1.2em">| $$$$$$$$|  $$$$$$ | $$  \ $$  /$$$$$$$| $$$$$$$$| $$ | $$ | $$</tspan>
+    <tspan x="20" dy="1.2em">| $$_____/ \____  $$| $$  | $$ /$$__  $$| $$_____/| $$ | $$ | $$</tspan>
+    <tspan x="20" dy="1.2em">|  $$$$$$$ /$$$$$$$/| $$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$/$$$$/</tspan>
+    <tspan x="20" dy="1.2em"> \_______/|_______/ | $$____/  \_______/ \_______/ \_____/\___/ </tspan>
+    <tspan x="20" dy="1.2em">                    | $$                                        </tspan>
+    <tspan x="20" dy="1.2em">                    | $$                                        </tspan>
+    <tspan x="20" dy="1.2em">                    |__/                                        </tspan>
+  </text>
+</svg>
